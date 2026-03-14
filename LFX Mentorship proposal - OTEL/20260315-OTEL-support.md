@@ -124,7 +124,7 @@ Possible export mechanisms include:
 The exporter configuration should remain configurable via controller flags.
 
 ## Risks and Mitigations
-#### Performance Overhead
+### Performance Overhead
 
 Tracing introduces additional runtime overhead.
 
@@ -136,7 +136,7 @@ Mitigation:
 
 - ensure spans remain lightweight
 
-#### Complexity of Integration
+### Complexity of Integration
 
 Adding telemetry may increase code complexity.
 
