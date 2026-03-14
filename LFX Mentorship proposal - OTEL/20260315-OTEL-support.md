@@ -97,7 +97,7 @@ To avoid duplication across multiple controllers, a shared telemetry helper pack
 
 Example location:
 
-pkg/observability/
+`pkg/observability/`
 
 
 Responsibilities:
