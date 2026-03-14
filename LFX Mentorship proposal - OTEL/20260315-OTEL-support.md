@@ -123,7 +123,7 @@ Possible export mechanisms include:
 
 The exporter configuration should remain configurable via controller flags.
 
-### Risks and Mitigations
+## Risks and Mitigations
 #### Performance Overhead
 
 Tracing introduces additional runtime overhead.
