@@ -6,7 +6,6 @@
 - [Motivation](#motivation)
   - [Problem Statement](#problem-statement)
   - [Goals](#goals)
-  - [Non-Goals](#non-goals)
 - [Proposal](#proposal)
   - [User Stories](#user-stories)
   - [Implementation Details](#implementation-details)
