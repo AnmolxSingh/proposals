@@ -145,3 +145,7 @@ Mitigation:
 - isolate tracing logic into a dedicated observability package
 
 - minimize modifications to existing controller logic
+
+## Resources
+- [Opentelemetry Documentation](https://opentelemetry.io/docs/)
+- [Cluster API Provider AWS](https://github.com/kubernetes-sigs/cluster-api-provider-aws)
